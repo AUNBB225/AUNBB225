@@ -35,7 +35,7 @@ Here, you'll find a collection of my projects that showcase my skills in web dev
 - **Hardware Project**: Any hardware-related projects you've built.
 
 ## Technologies Used 🛠️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AUNBB225&theme=dark&background=000000)](https://git.io/streak-stats)
 ### Languages
 
 <div align="center">
@@ -73,10 +73,10 @@ Here, you'll find a collection of my projects that showcase my skills in web dev
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" width="40" alt="instagram logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" alt="instagram logo"  />
   </a>
   <a href="https://www.tiktok.com/@your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" height="40" width="40" alt="tiktok logo"  />
+    <img src="https://en.wikipedia.org/wiki/TikTok#/media/File:TikTok_logo.svg" height="40" width="40" alt="tiktok logo"  />
   </a>
   <a href="https://www.youtube.com/channel/your-channel-id" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40" alt="youtube logo"  />
@@ -89,3 +89,5 @@ If you'd like to collaborate or have any questions, feel free to reach out to me
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 Looking forward to hearing from you! 🙂
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
