@@ -45,18 +45,6 @@ Here, you'll find a collection of my projects that showcase my skills in web dev
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-#### My Language Skills
-
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
-</div>
 
 ### Tools and Frameworks
 
@@ -66,22 +54,7 @@ Here, you'll find a collection of my projects that showcase my skills in web dev
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-## Let's Connect! 🤝
 
-<div align="center">
-  <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/your-profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.tiktok.com/@your-profile" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/TikTok#/media/File:TikTok_logo.svg" height="40" width="40" alt="tiktok logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/your-channel-id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40" alt="youtube logo"  />
-  </a>
-</div>
 
 If you'd like to collaborate or have any questions, feel free to reach out to me. I'm always excited to discuss new ideas and projects!
 
