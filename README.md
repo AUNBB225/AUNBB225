@@ -69,8 +69,8 @@ Here, you'll find a collection of my projects that showcase my skills in web dev
 
 If you'd like to collaborate or have any questions, feel free to reach out to me. I'm always excited to discuss new ideas and projects!
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📧 Email: chirayutbutchanon@gmail.com
+- (https://www.linkedin.com/in/your-profile)
 
 Looking forward to hearing from you! 🙂
 
